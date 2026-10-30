@@ -1,0 +1,39 @@
+name: 问题反馈 / Bug report
+description: 提供可复现、已脱敏的问题
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: 不要上传 API Key、私人数据库、备份、照片、录音或完整设备日志。安全漏洞请使用 Security 页面私密报告。
+  - type: input
+    id: version
+    attributes:
+      label: App 版本与安装来源
+      placeholder: 1.0.0 / Release、Actions 或自行构建
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Android 版本、设备型号与主题
+      placeholder: Android 15 / 模拟器 / 深色 / 字体 130%
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 从哪个入口开始，依次做了什么？
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: 预期结果与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 脱敏截图或错误信息
+      description: AI 问题只提供服务商、模型、错误码和脱敏输入，不提供密钥。

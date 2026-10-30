@@ -1,0 +1,366 @@
+[
+  {
+    "id": "169757",
+    "name": "米饭",
+    "state": "熟重 · 长粒白米饭，无盐",
+    "group": "主食",
+    "sourceName": "Rice, white, long-grain, regular, unenriched, cooked without salt",
+    "per100g": {
+      "fat": 0.28,
+      "carbs": 28.17,
+      "calories": 130.0,
+      "protein": 2.69
+    }
+  },
+  {
+    "id": "169756",
+    "name": "大米",
+    "state": "生重 · 长粒白米",
+    "group": "主食",
+    "sourceName": "Rice, white, long-grain, regular, raw, unenriched",
+    "per100g": {
+      "protein": 7.13,
+      "fat": 0.66,
+      "carbs": 79.95,
+      "calories": 365.0
+    }
+  },
+  {
+    "id": "173904",
+    "name": "燕麦片",
+    "state": "干重 · 原味，未强化",
+    "group": "主食",
+    "sourceName": "Cereals, oats, regular and quick, not fortified, dry",
+    "per100g": {
+      "fat": 6.52,
+      "carbs": 67.7,
+      "calories": 379.0,
+      "protein": 13.15
+    }
+  },
+  {
+    "id": "168482",
+    "name": "红薯",
+    "state": "生重 · 未烹调",
+    "group": "主食",
+    "sourceName": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+    "per100g": {
+      "carbs": 20.12,
+      "calories": 86.0,
+      "fat": 0.05,
+      "protein": 1.57
+    }
+  },
+  {
+    "id": "168484",
+    "name": "红薯",
+    "state": "熟重 · 去皮水煮",
+    "group": "主食",
+    "sourceName": "Sweet potato, cooked, boiled, without skin",
+    "per100g": {
+      "carbs": 17.72,
+      "calories": 76.0,
+      "protein": 1.37,
+      "fat": 0.14
+    }
+  },
+  {
+    "id": "170026",
+    "name": "土豆",
+    "state": "生重 · 含皮",
+    "group": "主食",
+    "sourceName": "Potatoes, flesh and skin, raw",
+    "per100g": {
+      "fat": 0.09,
+      "calories": 77.0,
+      "protein": 2.05,
+      "carbs": 17.49
+    }
+  },
+  {
+    "id": "170440",
+    "name": "土豆",
+    "state": "熟重 · 去皮水煮，无盐",
+    "group": "主食",
+    "sourceName": "Potatoes, boiled, cooked without skin, flesh, without salt",
+    "per100g": {
+      "carbs": 20.01,
+      "calories": 86.0,
+      "fat": 0.1,
+      "protein": 1.71
+    }
+  },
+  {
+    "id": "169999",
+    "name": "甜玉米",
+    "state": "熟重 · 水煮沥干，无盐",
+    "group": "主食",
+    "sourceName": "Corn, sweet, yellow, cooked, boiled, drained, without salt",
+    "per100g": {
+      "fat": 1.5,
+      "carbs": 20.98,
+      "calories": 96.0,
+      "protein": 3.41
+    }
+  },
+  {
+    "id": "172688",
+    "name": "全麦面包",
+    "state": "成品重 · 通用配方",
+    "group": "主食",
+    "sourceName": "Bread, whole-wheat, commercially prepared",
+    "per100g": {
+      "fat": 3.5,
+      "carbs": 42.71,
+      "calories": 252.0,
+      "protein": 12.45
+    }
+  },
+  {
+    "id": "171077",
+    "name": "鸡胸肉",
+    "state": "生重 · 去皮去骨",
+    "group": "蛋白来源",
+    "sourceName": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+    "per100g": {
+      "fat": 2.62,
+      "calories": 120.0,
+      "protein": 22.5,
+      "carbs": 0.0
+    }
+  },
+  {
+    "id": "171477",
+    "name": "鸡胸肉",
+    "state": "熟重 · 仅肉，烤制",
+    "group": "蛋白来源",
+    "sourceName": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+    "per100g": {
+      "fat": 3.57,
+      "carbs": 0.0,
+      "calories": 165.0,
+      "protein": 31.02
+    }
+  },
+  {
+    "id": "171287",
+    "name": "鸡蛋",
+    "state": "生重 · 去壳全蛋",
+    "group": "蛋白来源",
+    "sourceName": "Egg, whole, raw, fresh",
+    "per100g": {
+      "calories": 143.0,
+      "protein": 12.56,
+      "fat": 9.51,
+      "carbs": 0.72
+    }
+  },
+  {
+    "id": "173424",
+    "name": "鸡蛋",
+    "state": "熟重 · 水煮全蛋，去壳",
+    "group": "蛋白来源",
+    "sourceName": "Egg, whole, cooked, hard-boiled",
+    "per100g": {
+      "calories": 155.0,
+      "protein": 12.58,
+      "fat": 10.61,
+      "carbs": 1.12
+    }
+  },
+  {
+    "id": "172476",
+    "name": "普通豆腐",
+    "state": "未烹调 · 硫酸钙凝固",
+    "group": "蛋白来源",
+    "sourceName": "Tofu, raw, regular, prepared with calcium sulfate",
+    "per100g": {
+      "carbs": 1.87,
+      "fat": 4.78,
+      "calories": 76.0,
+      "protein": 8.08
+    }
+  },
+  {
+    "id": "172475",
+    "name": "硬豆腐",
+    "state": "未烹调 · 硫酸钙凝固",
+    "group": "蛋白来源",
+    "sourceName": "Tofu, raw, firm, prepared with calcium sulfate",
+    "per100g": {
+      "carbs": 2.78,
+      "calories": 144.0,
+      "protein": 17.27,
+      "fat": 8.72
+    }
+  },
+  {
+    "id": "175167",
+    "name": "三文鱼",
+    "state": "生重 · 养殖大西洋鲑",
+    "group": "蛋白来源",
+    "sourceName": "Fish, salmon, Atlantic, farmed, raw",
+    "per100g": {
+      "calories": 208.0,
+      "fat": 13.42,
+      "protein": 20.42,
+      "carbs": 0.0
+    }
+  },
+  {
+    "id": "175168",
+    "name": "三文鱼",
+    "state": "熟重 · 养殖大西洋鲑，干热烹调",
+    "group": "蛋白来源",
+    "sourceName": "Fish, salmon, Atlantic, farmed, cooked, dry heat",
+    "per100g": {
+      "fat": 12.35,
+      "carbs": 0.0,
+      "protein": 22.1,
+      "calories": 206.0
+    }
+  },
+  {
+    "id": "172217",
+    "name": "全脂牛奶",
+    "state": "液体称重 · 乳脂 3.25%",
+    "group": "乳品",
+    "sourceName": "Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",
+    "per100g": {
+      "carbs": 4.78,
+      "calories": 61.0,
+      "fat": 3.27,
+      "protein": 3.15
+    }
+  },
+  {
+    "id": "171284",
+    "name": "原味全脂酸奶",
+    "state": "成品重 · 通用配方",
+    "group": "乳品",
+    "sourceName": "Yogurt, plain, whole milk",
+    "per100g": {
+      "calories": 61.0,
+      "protein": 3.47,
+      "fat": 3.25,
+      "carbs": 4.66
+    }
+  },
+  {
+    "id": "170886",
+    "name": "原味低脂酸奶",
+    "state": "成品重 · 通用配方",
+    "group": "乳品",
+    "sourceName": "Yogurt, plain, low fat",
+    "per100g": {
+      "calories": 63.0,
+      "fat": 1.55,
+      "carbs": 7.04,
+      "protein": 5.25
+    }
+  },
+  {
+    "id": "173944",
+    "name": "香蕉",
+    "state": "生重 · 去皮可食部",
+    "group": "蔬果",
+    "sourceName": "Bananas, raw",
+    "per100g": {
+      "carbs": 22.84,
+      "calories": 89.0,
+      "protein": 1.09,
+      "fat": 0.33
+    }
+  },
+  {
+    "id": "171688",
+    "name": "苹果",
+    "state": "生重 · 含皮可食部",
+    "group": "蔬果",
+    "sourceName": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",
+    "per100g": {
+      "carbs": 13.81,
+      "calories": 52.0,
+      "fat": 0.17,
+      "protein": 0.26
+    }
+  },
+  {
+    "id": "170379",
+    "name": "西兰花",
+    "state": "生重 · 可食部",
+    "group": "蔬果",
+    "sourceName": "Broccoli, raw",
+    "per100g": {
+      "carbs": 6.64,
+      "calories": 34.0,
+      "fat": 0.37,
+      "protein": 2.82
+    }
+  },
+  {
+    "id": "169967",
+    "name": "西兰花",
+    "state": "熟重 · 水煮沥干，无盐",
+    "group": "蔬果",
+    "sourceName": "Broccoli, cooked, boiled, drained, without salt",
+    "per100g": {
+      "fat": 0.41,
+      "protein": 2.38,
+      "carbs": 7.18,
+      "calories": 35.0
+    }
+  },
+  {
+    "id": "168462",
+    "name": "菠菜",
+    "state": "生重 · 可食部",
+    "group": "蔬果",
+    "sourceName": "Spinach, raw",
+    "per100g": {
+      "protein": 2.86,
+      "fat": 0.39,
+      "carbs": 3.63,
+      "calories": 23.0
+    }
+  },
+  {
+    "id": "170567",
+    "name": "扁桃仁（巴旦木）",
+    "state": "可食部重",
+    "group": "油脂坚果",
+    "sourceName": "Nuts, almonds",
+    "per100g": {
+      "protein": 21.15,
+      "fat": 49.93,
+      "carbs": 21.55,
+      "calories": 579.0
+    }
+  },
+  {
+    "id": "171413",
+    "name": "橄榄油",
+    "state": "称重 · 烹调用油",
+    "group": "油脂坚果",
+    "sourceName": "Oil, olive, salad or cooking",
+    "per100g": {
+      "fat": 100.0,
+      "carbs": 0.0,
+      "calories": 884.0,
+      "protein": 0.0
+    }
+  },
+  {
+    "id": "171411",
+    "name": "大豆油",
+    "state": "称重 · 烹调用油",
+    "group": "油脂坚果",
+    "sourceName": "Oil, soybean, salad or cooking",
+    "per100g": {
+      "protein": 0.0,
+      "fat": 100.0,
+      "carbs": 0.0,
+      "calories": 884.0
+    }
+  }
+]

@@ -1,0 +1,3 @@
+<resources>
+    <item name="brand_splash_icon" type="drawable">@mipmap/ic_launcher_dark</item>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.WorkHub" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/brand_splash_background</item>
+        <item name="android:windowSplashScreenBackground">@color/brand_splash_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/brand_splash_icon</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_defy_wordmark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

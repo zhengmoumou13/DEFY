@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Original eclipse / upward movement / apex mark. -->
+    <path android:fillColor="#171C22" android:pathData="M48,28 C65,24 80,37 80,54 C80,71 65,84 48,80 C61,77 70,67 70,54 C70,41 61,31 48,28 Z" />
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#171C22"
+        android:strokeWidth="4" android:strokeLineCap="round" android:pathData="M29,74 C40,72 45,64 50,55 C54,48 59,42 64,38" />
+    <path android:fillColor="#171C22" android:pathData="M73,30 A3.4,3.4 0,1 1,66.2 30 A3.4,3.4 0,1 1,73 30 Z" />
+</vector>

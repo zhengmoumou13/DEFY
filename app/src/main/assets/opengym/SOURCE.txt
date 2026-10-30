@@ -1,0 +1,7 @@
+openGym — Copyright (C) 2026 Duarte Santos
+https://github.com/DuarteSantos8/openGym
+Commit: b6cfe2bbd3f099523ffbf2677438864e9a09a06f
+AGPL-3.0: catalogue text/translations and starter routine data.
+Adapted to native Kotlin/Compose; see scripts/import_opengym.py.
+No Gym visual images, animations or media URLs are included.
+Corresponding source for distributed derivatives must be made available under applicable AGPL terms.

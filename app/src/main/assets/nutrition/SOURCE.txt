@@ -1,0 +1,7 @@
+USDA Agricultural Research Service. FoodData Central, SR Legacy April 2018.
+https://fdc.nal.usda.gov/download-datasets/
+https://fdc.nal.usda.gov/api-guide/#bkmk-9 (Public domain / CC0)
+All values are per 100 g edible portion, including liquids weighed in grams.
+Energy uses nutrient 1008 (kcal); protein 1003, carbohydrate 1005 and fat 1004 (g).
+Prepared and raw entries are independent reference samples, not cooking yield conversions.
+Archive SHA256: b80817294b8850530aaedf2e515c02593b1824f763a0ff356e5c2081643e6fd0

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="112dp" android:height="32dp" android:viewportWidth="140" android:viewportHeight="40">
+    <!-- Original geometric wordmark. The open counter and forward cut echo the ascent mark. -->
+    <path android:fillColor="@color/brand_foreground" android:fillType="evenOdd"
+        android:pathData="M0,0 H12 C25,0 31,8 31,20 C31,32 25,40 12,40 H0 Z M8,8 V32 H12 C20,32 23,28 23,20 C23,12 20,8 12,8 Z" />
+    <path android:fillColor="@color/brand_foreground"
+        android:pathData="M39,0 H65 V8 H47 V16 H62 V24 H47 V32 H65 V40 H39 Z M73,0 H99 V8 H81 V17 H96 V25 H81 V40 H73 Z M105,0 H114 L123,15 L132,0 H140 L127,24 V40 H119 V24 Z" />
+</vector>

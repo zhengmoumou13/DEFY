@@ -1,0 +1,48 @@
+# Android / Gradle
+.gradle/
+.gradle-home/
+.kotlin/
+**/build/
+local.properties
+
+# IDE / macOS
+.idea/
+*.iml
+.DS_Store
+**/.DS_Store
+
+# Local toolchains and device artifacts
+tools/
+*.jks
+*.keystore
+
+# Runtime data and backups
+*.db
+*.db-shm
+*.db-wal
+*.dwb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Secrets and local environment files
+.env
+.env.*
+secrets.properties
+
+# Local reviews, device captures and release artifacts
+/output/
+/docs/regression-*.txt
+*.apk
+*.aab
+*.apks
+*.pem
+*.p12
+*.pfx
+*.key
+key.properties
+keystore.properties
+__pycache__/
+*.pyc
